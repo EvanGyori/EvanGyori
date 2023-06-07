@@ -1,5 +1,4 @@
-I enjoy programming and have been coding since 2017,
-so far I have learned mostly C++ along with javascript and C#
+Coding is 42.
 
 <!---
 EvanGyori/EvanGyori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
